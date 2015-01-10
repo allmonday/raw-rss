@@ -1,0 +1,19 @@
+blogs: 
+  - name: 李俊慧
+    link: http://feeds.qzone.qq.com/cgi-bin/cgi_rss_out?uin=908961321
+  - name: 张五常
+    link: http://blog.sina.com.cn/rss/1199839991.xml
+  - name: matrix67
+    link: http://www.matrix67.com/blog/feed
+  - name: 考据癖
+    link: http://localhost-8080.com/feed/
+  - name: 耗子叔
+    link: http://coolshell.cn/feed
+  - name: 朱锡庆
+    link: http://blog.sina.com.cn/rss/1231440837.xml
+  - name: CSS 森林
+    link: http://www.cssforest.org/blog/index.php?atom=1
+  - name: 彬Go
+    link: http://www.pjhome.net/feed.asp
+  - name: WEB前端开发
+    link: http://www.css88.com/feed
