@@ -15,5 +15,17 @@ blogs:
     link: http://www.cssforest.org/blog/index.php?atom=1
   - name: 彬Go
     link: http://www.pjhome.net/feed.asp
-  - name: WEB前端开发
-    link: http://www.css88.com/feed
+  #- name: WEB前端开发
+  #  link: http://www.css88.com/feed
+  - name: 前端观察
+    link: http://www.qianduan.net/feed
+  - name: 知乎
+    link: http://www.zhihu.com/rss
+  - name: 知乎日报
+    link: http://feeds.feedburner.com/zhihu-daily
+  - name: 微软亚洲研究院
+    link: http://blog.sina.com.cn/rss/1286528122.xml
+  - name: 科学网博客
+    link: http://fullrss.net/a/http/www.sciencenet.cn/xml/blog.aspx?di=20
+  - name: 鲜果精选
+    link: http://xianguo.com/service/dailyshare
