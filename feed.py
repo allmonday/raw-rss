@@ -27,7 +27,9 @@ print('start work')
 blogs = blogs['blogs']
 
 
-def getRss(link):
+def getRss(item):
+    link = item['link']
+    blog_name = item['name']
     print('doing->', link)
     try:
         f = fp.parse(link)
@@ -37,6 +39,7 @@ def getRss(link):
                 'title': e.title_detail.value,
                 'author': e.author_detail.name,
                 'link': e.id,
+                'blog_name': blog_name,
                 'date': ' '.join(e.published.split(' ')[1:4])
                 }
 
@@ -56,4 +59,4 @@ def getRss(link):
         print(e)
 
 for b in blogs:
-    getRss(b['link'])
+    getRss(b)
